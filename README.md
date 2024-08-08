@@ -5,10 +5,6 @@
 👩🏻‍🎓 Studied [Software Development, Information Systems] at The University of Sydney, Australia<br/>
 
 
-
-<!-- GitHub stats from https://github.com/Primordial-Magus/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=Primordial-Magus&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 
@@ -16,7 +12,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
