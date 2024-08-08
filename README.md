@@ -5,9 +5,6 @@
 </h1>
 
 
-<br/>
-
-
 
 # 🧿 Bio<br/>
 👩🏻‍💻 Software Engineer<br/>
