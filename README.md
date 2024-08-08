@@ -6,7 +6,7 @@
 
 
 <br/>
-
+# 🔍 Bio<br/>
 👩🏻‍💻 Software Engineer<br/>
 👩🏻‍🎓 Studied [Software Development, Information Systems] at The University of Sydney, Australia<br/>
 
